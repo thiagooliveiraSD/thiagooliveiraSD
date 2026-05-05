@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a fullstack developer in Brazil.
+I'm a full-stack developer from Brazil with experience building and maintaining applications across the stack.
 
-My daily habits on development includes - PHP, Javascript, C#, React Native, SQL, node.js, REST APIs.
+My day-to-day work involves PHP, JavaScript, C#, React Native, SQL, Node.js, and RESTful APIs.
 
-I'll be updating all of my personal projects that I'm currently working on.
+This profile showcases my personal projects, which I regularly update as I learn and experiment with new ideas.
